@@ -27,3 +27,6 @@ $ npm run migrate up
 $ npm run migrate down
 
 ```
+#Extra Help
+
+https://www.blog.duomly.com/node-js-course-building-fintech-banking-app-lesson-4-user-login-authentication/
